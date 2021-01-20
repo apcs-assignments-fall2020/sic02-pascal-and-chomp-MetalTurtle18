@@ -28,8 +28,7 @@ public class MyMain {
         print2DArray(Pascal.pascalTriangle(3));
         printTriangle(Pascal.pascalTriangle(4));
         printTriangle(Pascal.pascalTriangle(5));
-
         // Code to play Chomp
-        // Chomp.play();
+        Chomp.play();
     }
 }
